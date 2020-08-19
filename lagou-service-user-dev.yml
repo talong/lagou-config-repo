@@ -1,1 +1,2 @@
-identify:test
+server:
+  identify: test
